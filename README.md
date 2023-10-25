@@ -15,5 +15,5 @@
 
 <br/> 
 
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaweriaakhan&theme=algolia" alt="rameeshakhan" /></p> </div>
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaweriaakhan&theme=algolia" alt="JaweriaKha" /></p> </div>
 
